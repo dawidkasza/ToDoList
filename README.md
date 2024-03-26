@@ -3,7 +3,7 @@
 This is a simple projekt to create a todolist.
 You can adding a new tast to the list, toggle the done status and remove done tasks from list.
 ## Link
-https://zwierzak05.github.io/ToDoList/
+[https://zwierzak05.github.io/ToDoList/](https://dawidkasza.github.io/ToDoList/)
 
 ## view
 This is default view of this aplication.
